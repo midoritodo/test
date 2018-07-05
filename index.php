@@ -1,3 +1,5 @@
 <?php
-phpinfo();
 echo "test2";
+
+
+phpinfo();
